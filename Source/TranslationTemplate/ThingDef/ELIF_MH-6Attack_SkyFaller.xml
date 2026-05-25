@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AH-6M Little Bird (Attack) active -->
+  <ELIFMH-6LBAttack_Active.label>AH-6M Little Bird (Attack) active</ELIFMH-6LBAttack_Active.label>
+  <!-- EN: AH-6M Little Bird (Attack) Bombing -->
+  <ELIFMH-6LBAttack_BomberRun.label>AH-6M Little Bird (Attack) Bombing</ELIFMH-6LBAttack_BomberRun.label>
+  <!-- EN: AH-6M Little Bird (Attack) incoming -->
+  <ELIFMH-6LBAttack_Incoming.label>AH-6M Little Bird (Attack) incoming</ELIFMH-6LBAttack_Incoming.label>
+  <!-- EN: AH-6M Little Bird (Attack) leaving -->
+  <ELIFMH-6LBAttack_Leaving.label>AH-6M Little Bird (Attack) leaving</ELIFMH-6LBAttack_Leaving.label>
+</LanguageData>

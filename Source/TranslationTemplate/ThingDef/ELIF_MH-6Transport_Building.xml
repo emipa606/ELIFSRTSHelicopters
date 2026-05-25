@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MH-6M Little Bird (Transport) -->
+  <ELIFMH-6LBTransport.label>MH-6M Little Bird (Transport)</ELIFMH-6LBTransport.label>
+  <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-6M is a helicopter designed for general small range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 500\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 400kg\nSpeed: 5\nPassenger Capacity: 1-4\nFuel Per Tile: 5\nFuel Capacity: 300\nRound Trip Range: 30\nFull Range: 60\nInternal Power: 500w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
+  <ELIFMH-6LBTransport.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+The MH-6M is a helicopter designed for general small range transport of goods and personnel.
+
+&lt;size=14>&lt;b>BASIC STATS:&lt;/b>&lt;/size>
+Health: 500
+
+&lt;size=14>&lt;b>LOGISTICS POTENTIAL:&lt;/b>&lt;/size>
+Cargo Capacity: 400kg
+Speed: 5
+Passenger Capacity: 1-4
+Fuel Per Tile: 5
+Fuel Capacity: 300
+Round Trip Range: 30
+Full Range: 60
+Internal Power: 500w
+
+&lt;size=14>&lt;b>ATTACK POTENTIAL:&lt;/b>&lt;/size>
+Bombing Run Capacity: n/a
+Precision Run Capacity: n/a
+Spread: n/a
+Distance between drops: n/a</ELIFMH-6LBTransport.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <ELIFMH-6LBTransport.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</ELIFMH-6LBTransport.comps.CompLaunchable.cooldownEndedMessage>
+</LanguageData>

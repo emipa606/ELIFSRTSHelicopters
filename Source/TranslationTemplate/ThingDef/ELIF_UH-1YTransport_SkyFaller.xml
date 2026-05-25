@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UH-1Y Venom (Transport) active -->
+  <ELIFUH-1YVTransport_Active.label>UH-1Y Venom (Transport) active</ELIFUH-1YVTransport_Active.label>
+  <!-- EN: UH-1Y Venom (Transport) incoming -->
+  <ELIFUH-1YVTransport_Incoming.label>UH-1Y Venom (Transport) incoming</ELIFUH-1YVTransport_Incoming.label>
+  <!-- EN: UH-1Y Venom (Transport) leaving -->
+  <ELIFUH-1YVTransport_Leaving.label>UH-1Y Venom (Transport) leaving</ELIFUH-1YVTransport_Leaving.label>
+</LanguageData>

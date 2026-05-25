@@ -1,0 +1,71 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="ELIF_RotorFramework/ELIF_RotorFramework.csproj" Type="52828de3-cb81-4dc8-99df-5000d9e7f358" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/UH-1Y/">
+    <File Path="../1.6/Defs/Helicopters/UH-1Y/ELIF_UH-1YAttack_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-1Y/ELIF_UH-1YAttack_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-1Y/ELIF_UH-1YAttack_SkyFaller.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-1Y/ELIF_UH-1YTransport_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-1Y/ELIF_UH-1YTransport_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-1Y/ELIF_UH-1YTransport_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/V-22/">
+    <File Path="../1.6/Defs/Helicopters/V-22/ELIF_V-22Transport_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/V-22/ELIF_V-22Transport_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/V-22/ELIF_V-22Transport_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/MH-6/">
+    <File Path="../1.6/Defs/Helicopters/MH-6/ELIF_MH-6Attack_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/MH-6/ELIF_MH-6Attack_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/MH-6/ELIF_MH-6Attack_SkyFaller.xml" />
+    <File Path="../1.6/Defs/Helicopters/MH-6/ELIF_MH-6Transport_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/MH-6/ELIF_MH-6Transport_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/MH-6/ELIF_MH-6Transport_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/CH-46E/">
+    <File Path="../1.6/Defs/Helicopters/CH-46E/ELIF_CH-46ETransport_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/CH-46E/ELIF_CH-46ETransport_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/CH-46E/ELIF_CH-46ETransport_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/AW109/">
+    <File Path="../1.6/Defs/Helicopters/AW109/ELIF_AW109Transport_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/AW109/ELIF_AW109Transport_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/AW109/ELIF_AW109Transport_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Research/">
+    <File Path="../1.6/Defs/Research/ELIF_ResearchHelicopters.xml" />
+    <File Path="../1.6/Defs/Research/ELIF_ResearchTabs.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/UH-60/">
+    <File Path="../1.6/Defs/Helicopters/UH-60/ELIF_UH-60Attack_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-60/ELIF_UH-60Attack_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-60/ELIF_UH-60Attack_SkyFaller.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-60/ELIF_UH-60Transport_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-60/ELIF_UH-60Transport_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/UH-60/ELIF_UH-60Transport_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Sounds/">
+    <File Path="../1.6/Defs/Sounds/ELIF_HelicopterSounds.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Helicopters/AH-1Z/">
+    <File Path="../1.6/Defs/Helicopters/AH-1Z/ELIF_AH-1ZAttack_Building.xml" />
+    <File Path="../1.6/Defs/Helicopters/AH-1Z/ELIF_AH-1ZAttack_Rotor.xml" />
+    <File Path="../1.6/Defs/Helicopters/AH-1Z/ELIF_AH-1ZAttack_SkyFaller.xml" />
+  </Folder>
+  <Folder Name="/XML/" />
+  <Folder Name="/XML/1.6/" />
+  <Folder Name="/XML/1.6/Defs/" />
+  <Folder Name="/XML/1.6/Defs/Helicopters/">
+    <File Path="../1.6/Defs/Helicopters/ELIF_DustBase.xml" />
+    <File Path="../1.6/Defs/Helicopters/ELIF_HelicopterBase.xml" />
+    <File Path="../1.6/Defs/Helicopters/ELIF_RotorBase.xml" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UH-1Y Venom (Attack) active -->
+  <ELIFUH-1YVAttack_Active.label>UH-1Y Venom (Attack) active</ELIFUH-1YVAttack_Active.label>
+  <!-- EN: UH-1Y Venom (Attack) Bombing -->
+  <ELIFUH-1YVAttack_BomberRun.label>UH-1Y Venom (Attack) Bombing</ELIFUH-1YVAttack_BomberRun.label>
+  <!-- EN: UH-1Y Venom (Attack) incoming -->
+  <ELIFUH-1YVAttack_Incoming.label>UH-1Y Venom (Attack) incoming</ELIFUH-1YVAttack_Incoming.label>
+  <!-- EN: UH-1Y Venom (Attack) leaving -->
+  <ELIFUH-1YVAttack_Leaving.label>UH-1Y Venom (Attack) leaving</ELIFUH-1YVAttack_Leaving.label>
+</LanguageData>

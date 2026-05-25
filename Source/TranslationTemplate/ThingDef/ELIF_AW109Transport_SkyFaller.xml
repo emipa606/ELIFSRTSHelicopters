@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AW109 Agusta Westland (Transport) active -->
+  <ELIFAW109VTransport_Active.label>AW109 Agusta Westland (Transport) active</ELIFAW109VTransport_Active.label>
+  <!-- EN: AW109 Agusta Westland (Transport) incoming -->
+  <ELIFAW109VTransport_Incoming.label>AW109 Agusta Westland (Transport) incoming</ELIFAW109VTransport_Incoming.label>
+  <!-- EN: AW109 Agusta Westland (Transport) leaving -->
+  <ELIFAW109VTransport_Leaving.label>AW109 Agusta Westland (Transport) leaving</ELIFAW109VTransport_Leaving.label>
+</LanguageData>

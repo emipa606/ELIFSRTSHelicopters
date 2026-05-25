@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: CH-46E Sea Knight (Transport) active -->
+  <ELIFCH-46ETransport_Active.label>CH-46E Sea Knight (Transport) active</ELIFCH-46ETransport_Active.label>
+  <!-- EN: CH-46E Sea Knight (Transport) incoming -->
+  <ELIFCH-46ETransport_Incoming.label>CH-46E Sea Knight (Transport) incoming</ELIFCH-46ETransport_Incoming.label>
+  <!-- EN: CH-46E Sea Knight (Transport) leaving -->
+  <ELIFCH-46ETransport_Leaving.label>CH-46E Sea Knight (Transport) leaving</ELIFCH-46ETransport_Leaving.label>
+</LanguageData>

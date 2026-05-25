@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: V-22 Osprey (Transport) active -->
+  <ELIFV-22Transport_Active.label>V-22 Osprey (Transport) active</ELIFV-22Transport_Active.label>
+  <!-- EN: V-22 Osprey (Transport) incoming -->
+  <ELIFV-22Transport_Incoming.label>V-22 Osprey (Transport) incoming</ELIFV-22Transport_Incoming.label>
+  <!-- EN: V-22 Osprey (Transport) leaving -->
+  <ELIFV-22Transport_Leaving.label>V-22 Osprey (Transport) leaving</ELIFV-22Transport_Leaving.label>
+</LanguageData>

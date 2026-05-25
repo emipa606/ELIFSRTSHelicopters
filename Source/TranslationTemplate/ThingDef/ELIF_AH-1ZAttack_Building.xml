@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AH-1Z Viper (Attack) -->
+  <ELIFAH-1ZVAttack.label>AH-1Z Viper (Attack)</ELIFAH-1ZVAttack.label>
+  <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe AH-1Z is a helicopter designed for long range precision bombing, sacrificing bombing capacity for high-end computational computers for higher accuracy.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1400\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 500kg\nSpeed: 8\nPassenger Capacity: 1-2\nFuel Per Tile: 10\nFuel Capacity: 1060\nRound Trip Range: 53\nFull Range: 106\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 3\nPrecision Run Capacity: 7\nSpread: 4\nDistance between drops: 3 -->
+  <ELIFAH-1ZVAttack.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+The AH-1Z is a helicopter designed for long range precision bombing, sacrificing bombing capacity for high-end computational computers for higher accuracy.
+
+&lt;size=14>&lt;b>BASIC STATS:&lt;/b>&lt;/size>
+Health: 1400
+
+&lt;size=14>&lt;b>LOGISTICS POTENTIAL:&lt;/b>&lt;/size>
+Cargo Capacity: 500kg
+Speed: 8
+Passenger Capacity: 1-2
+Fuel Per Tile: 10
+Fuel Capacity: 1060
+Round Trip Range: 53
+Full Range: 106
+Internal Power: 700w
+
+&lt;size=14>&lt;b>ATTACK POTENTIAL:&lt;/b>&lt;/size>
+Bombing Run Capacity: 3
+Precision Run Capacity: 7
+Spread: 4
+Distance between drops: 3</ELIFAH-1ZVAttack.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <ELIFAH-1ZVAttack.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</ELIFAH-1ZVAttack.comps.CompLaunchable.cooldownEndedMessage>
+</LanguageData>

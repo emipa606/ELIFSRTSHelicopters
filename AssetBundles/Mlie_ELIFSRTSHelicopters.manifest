@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 29380814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d3db8c2599743832a5e27fa4a359230
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0d3db8c2599743832a5e27fa4a359230
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YAttack_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Transport_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YTransport_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Transport_tailrotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Attack_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AW109/AW109Transport_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/CH-46E/CH-46ETransport_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AW109/AW109Transport_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Transport_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Transport_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YTransport_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YTransport_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YAttack_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AW109/AW109Transport_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Transport_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Attack_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Transport_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Transport_tailrotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Attack_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Attack_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/V-22/V-22Transport_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YTransport_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/Effects/Elif_Dust.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/V-22/V-22Transport_toprotor_R.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/CH-46E/CH-46ETransport_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/SRTSIcon.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Transport_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/V-22/V-22Transport_toprotor_L.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AH-1Z/AH-1ZAttack_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Transport_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/V-22/V-22Transport_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AW109/AW109Transport_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AH-1Z/AH-1ZAttack_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/V-22/V-22Transport_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YAttack_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Attack_body_m.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Sounds/Helicopters/ELIF_HelicopterTakeOff.ogg
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Attack_tailrotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Sounds/Helicopters/ELIF_HelicopterLanding.ogg
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Attack_tailrotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/CH-46E/CH-46ETransport_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Transport_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Attack_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-1Y/UH-1YAttack_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AH-1Z/AH-1ZAttack_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/MH6/MH-6Attack_body.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/UH-60/UH-60Attack_skyfaller.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/CH-46E/CH-46ETransport_toprotor.png
+- Assets/Data/Mlie.ELIFSRTSHelicopters/Textures/AH-1Z/AH-1ZAttack_body_m.png
+Dependencies: []

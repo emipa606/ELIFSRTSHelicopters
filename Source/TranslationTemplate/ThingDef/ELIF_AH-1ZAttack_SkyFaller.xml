@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AH-1Z Viper (Attack) active -->
+  <ELIFAH-1ZVAttack_Active.label>AH-1Z Viper (Attack) active</ELIFAH-1ZVAttack_Active.label>
+  <!-- EN: AH-1Z Viper (Attack) Bombing -->
+  <ELIFAH-1ZVAttack_BomberRun.label>AH-1Z Viper (Attack) Bombing</ELIFAH-1ZVAttack_BomberRun.label>
+  <!-- EN: AH-1Z Viper (Attack) incoming -->
+  <ELIFAH-1ZVAttack_Incoming.label>AH-1Z Viper (Attack) incoming</ELIFAH-1ZVAttack_Incoming.label>
+  <!-- EN: AH-1Z Viper (Attack) leaving -->
+  <ELIFAH-1ZVAttack_Leaving.label>AH-1Z Viper (Attack) leaving</ELIFAH-1ZVAttack_Leaving.label>
+</LanguageData>

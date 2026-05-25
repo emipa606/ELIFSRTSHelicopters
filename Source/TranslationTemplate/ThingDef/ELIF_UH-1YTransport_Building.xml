@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UH-1Y Venom (Transport) -->
+  <ELIFUH-1YVTransport.label>UH-1Y Venom (Transport)</ELIFUH-1YVTransport.label>
+  <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe UH-1Y is a helicopter designed for general medium range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 700\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 5.5\nPassenger Capacity: 1-6\nFuel Per Tile: 6\nFuel Capacity: 480\nRound Trip Range: 40\nFull Range: 80\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
+  <ELIFUH-1YVTransport.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+The UH-1Y is a helicopter designed for general medium range transport of goods and personnel.
+
+&lt;size=14>&lt;b>BASIC STATS:&lt;/b>&lt;/size>
+Health: 700
+
+&lt;size=14>&lt;b>LOGISTICS POTENTIAL:&lt;/b>&lt;/size>
+Cargo Capacity: 800kg
+Speed: 5.5
+Passenger Capacity: 1-6
+Fuel Per Tile: 6
+Fuel Capacity: 480
+Round Trip Range: 40
+Full Range: 80
+Internal Power: 700w
+
+&lt;size=14>&lt;b>ATTACK POTENTIAL:&lt;/b>&lt;/size>
+Bombing Run Capacity: n/a
+Precision Run Capacity: n/a
+Spread: n/a
+Distance between drops: n/a</ELIFUH-1YVTransport.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <ELIFUH-1YVTransport.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</ELIFUH-1YVTransport.comps.CompLaunchable.cooldownEndedMessage>
+</LanguageData>

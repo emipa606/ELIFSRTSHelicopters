@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MH-6M Little Bird (Transport) active -->
+  <ELIFMH-6LBTransport_Active.label>MH-6M Little Bird (Transport) active</ELIFMH-6LBTransport_Active.label>
+  <!-- EN: MH-6M Little Bird (Transport) incoming -->
+  <ELIFMH-6LBTransport_Incoming.label>MH-6M Little Bird (Transport) incoming</ELIFMH-6LBTransport_Incoming.label>
+  <!-- EN: MH-6M Little Bird (Transport) leaving -->
+  <ELIFMH-6LBTransport_Leaving.label>MH-6M Little Bird (Transport) leaving</ELIFMH-6LBTransport_Leaving.label>
+</LanguageData>

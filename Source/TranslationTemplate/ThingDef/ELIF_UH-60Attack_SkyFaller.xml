@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MH-60L DAP Blackhawk (Attack) active -->
+  <ELIFUH-60Attack_Active.label>MH-60L DAP Blackhawk (Attack) active</ELIFUH-60Attack_Active.label>
+  <!-- EN: MH-60L DAP Blackhawk (Attack) Bombing -->
+  <ELIFUH-60Attack_BomberRun.label>MH-60L DAP Blackhawk (Attack) Bombing</ELIFUH-60Attack_BomberRun.label>
+  <!-- EN: MH-60L DAP Blackhawk (Attack) incoming -->
+  <ELIFUH-60Attack_Incoming.label>MH-60L DAP Blackhawk (Attack) incoming</ELIFUH-60Attack_Incoming.label>
+  <!-- EN: MH-60L DAP Blackhawk (Attack) leaving -->
+  <ELIFUH-60Attack_Leaving.label>MH-60L DAP Blackhawk (Attack) leaving</ELIFUH-60Attack_Leaving.label>
+</LanguageData>
