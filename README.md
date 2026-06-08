@@ -1,4 +1,4 @@
-# [[ELIF] SRTS - Helicopters (Continued)]()
+# [[ELIF] SRTS - Helicopters (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3732934346)
 
 ![Image](https://img.litet.net/logos/Info.png)
 
@@ -122,8 +122,6 @@ If you happen to notice any incompatibilities or partial incompatibilities, feel
 **Q:** Do you plan on porting this to Phil’s Vehicle Framework?
 **A:** Yes! Once it's released, we will immediately try to port this to Phil’s Vehicle Framework, along with some changes and improvements to make use of the new features of Phil’s Vehicle Framework.
 
-**Q:** Can I reupload your mod at other sites/update your mod for you and publish i
-
 ![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
@@ -136,4 +134,6 @@ If you happen to notice any incompatibilities or partial incompatibilities, feel
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/ELIFSRTSHelicopters?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3732934346) | tags: aircraft, transport

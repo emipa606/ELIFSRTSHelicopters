@@ -1,4 +1,7 @@
 # Changelog for ELIFSRTSHelicopters
 
+1.6.1 - Translation fixes, thanks to Konvt
+
+
 1.6.0 - First publish
 

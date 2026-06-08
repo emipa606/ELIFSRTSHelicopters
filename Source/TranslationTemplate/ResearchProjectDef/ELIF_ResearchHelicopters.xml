@@ -145,9 +145,9 @@ Precision Run Capacity: 2
 Spread: 6
 Distance between drops: 4]]></Research_UH-1Y_Attack.description>
   <!-- EN: UH-1Y Venom (Transport) -->
-  <Research_UH-1Y_Transport.label><![CDATA[UH-1Y Venom (Transport)</Research_UH-1Y_Transport.label>
+  <Research_UH-1Y_Transport.label>UH-1Y Venom (Transport)</Research_UH-1Y_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe UH-1Y is a helicopter designed for general medium range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 700\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 5.5\nPassenger Capacity: 1-6\nFuel Per Tile: 6\nFuel Capacity: 480\nRound Trip Range: 40\nFull Range: 80\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_UH-1Y_Transport.description><size=14><b>DESCRIPTION:</b></size>
+  <Research_UH-1Y_Transport.description><![CDATA[<size=14><b>DESCRIPTION:</b></size>
 The UH-1Y is a helicopter designed for general medium range transport of goods and personnel.
 
 <size=14><b>BASIC STATS:</b></size>

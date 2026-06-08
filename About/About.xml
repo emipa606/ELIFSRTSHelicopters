@@ -114,8 +114,6 @@ If you happen to notice any incompatibilities or partial incompatibilities, feel
 [b]Q:[/b] Do you plan on porting this to Phil’s Vehicle Framework?
 [b]A:[/b] Yes! Once it's released, we will immediately try to port this to Phil’s Vehicle Framework, along with some changes and improvements to make use of the new features of Phil’s Vehicle Framework.
 
-[b]Q:[/b] Can I reupload your mod at other sites/update your mod for you and publish i
-
 [img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the error persists if you just have this mod and its requirements active.
@@ -125,6 +123,8 @@ If you happen to notice any incompatibilities or partial incompatibilities, feel
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3732934346][img]https://img.shields.io/github/v/release/emipa606/ELIFSRTSHelicopters?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: aircraft, transport</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
 </ModMetaData>
