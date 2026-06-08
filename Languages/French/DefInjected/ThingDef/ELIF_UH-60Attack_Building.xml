@@ -4,13 +4,13 @@
   <!-- EN: MH-60L DAP Blackhawk (Attack) -->
   <ELIFUH-60Attack.label>MH-60L DAP Blackhawk (Attaque)</ELIFUH-60Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-60L DAP (Direct Action Penetrator) is a helicopter designed for medium to long range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1000\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 6\nPassenger Capacity: 1-4\nFuel Per Tile: 9\nFuel Capacity: 675\nRound Trip Range: 37.5\nFull Range: 75\nInternal Power: 600w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 4\nPrecision Run Capacity: 3\nSpread: 5\nDistance between drops: 4 -->
-  <ELIFUH-60Attack.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+  <ELIFUH-60Attack.description><![CDATA[<size=14><b>DESCRIPTION:</b></size>
 Le MH-60L DAP (Direct Action Penetrator) est un hélicoptère conçu pour les attaques à moyenne et longue distance, sacrifiant les capacités de stockage, de passagers et de carburant pour maintenir la même vitesse que son homologue.
 
-&lt;size=14>&lt;b>Stats de base:&lt;/b>&lt;/size>
+<size=14><b>Stats de base:</b></size>
 Santé : 1000
 
-&lt;size=14>&lt;b>POTENTIEL LOGISTIQUE:&lt;/b>&lt;/size>
+<size=14><b>POTENTIEL LOGISTIQUE:</b></size>
 Capacité de chargement : 800 kg
 Vitesse : 6
 Nombre de passagers : 1-4
@@ -20,11 +20,11 @@ Rayon d'action aller-retour : 37.5
 Portée totale : 75
 Puissance interne : 600w
 
-&lt;size=14>&lt;b>POTENTIEL D'ATTAQUE:&lt;/b>&lt;/size>
+<size=14><b>POTENTIEL D'ATTAQUE:</b></size>
 Capacité de bombardement : 4
 Capacité de course de précision : 3
 Répartition : 5
-Distance entre les largages : 4</ELIFUH-60Attack.description>
+Distance entre les largages : 4]]></ELIFUH-60Attack.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFUH-60Attack.comps.CompLaunchable.cooldownEndedMessage>{0} est prêt à repartir.</ELIFUH-60Attack.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

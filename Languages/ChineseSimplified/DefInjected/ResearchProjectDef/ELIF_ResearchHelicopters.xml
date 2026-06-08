@@ -4,13 +4,13 @@
   <!-- EN: AH-1Z Viper (Attack) -->
   <Research_AH-1Z_Attack.label>AH-1Z 毒蛇（攻击型）</Research_AH-1Z_Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe AH-1Z is a helicopter designed for long range precision bombing, sacrificing bombing capacity for high-end computational computers for higher accuracy.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1400\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 500kg\nSpeed: 8\nPassenger Capacity: 1-2\nFuel Per Tile: 10\nFuel Capacity: 1060\nRound Trip Range: 53\nFull Range: 106\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 3\nPrecision Run Capacity: 7\nSpread: 4\nDistance between drops: 3 -->
-  <Research_AH-1Z_Attack.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_AH-1Z_Attack.description><![CDATA[<size=14><b>描述：</b></size>
 AH-1Z 是一种专为远距离精确轰炸而设计的直升机，它牺牲了轰炸能力来换取更高精度的高端计算计算机。
 
-&lt;size=14>&lt;b>基本数据：&lt;/b>&lt;/size
+<size=14><b>基本数据：</b></size>
 健康1400
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量： 500 千克
 速度： 8
 载客量： 1-2
@@ -20,21 +20,21 @@ AH-1Z 是一种专为远距离精确轰炸而设计的直升机，它牺牲了�
 全航程106
 内部功率：700 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：3
 精确运行能力：7
 扩散：4
-投掷距离：3</Research_AH-1Z_Attack.description>
+投掷距离：3]]></Research_AH-1Z_Attack.description>
   <!-- EN: AW109 Agusta Westland (Transport) -->
   <Research_AW109_Transport.label>AW109 阿古斯塔-韦斯特兰（运输机）</Research_AW109_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe AW109 is a helicopter designed for extremely long range quick deploy transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1500\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 900kg\nSpeed: 9\nPassenger Capacity: 1-8\nFuel Per Tile: 9\nFuel Capacity: 1170\nRound Trip Range: 65\nFull Range: 110\nInternal Power: 1200w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_AW109_Transport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_AW109_Transport.description><![CDATA[<size=14><b>描述：</b></size>
 AW109 是一种直升机，设计用于超远程快速部署货物和人员运输。
 
-&lt;size=14>&lt;b>基本状态：&lt;/b>&lt;/size
+<size=14><b>基本状态：</b></size>
 健康1500
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：900 千克
 速度： 9
 载客量： 1-8
@@ -44,21 +44,21 @@ AW109 是一种直升机，设计用于超远程快速部署货物和人员运�
 全航程110
 内部功率：1200 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</Research_AW109_Transport.description>
+投掷距离：不适用]]></Research_AW109_Transport.description>
   <!-- EN: CH-46E Sea Knight (Transport) -->
   <Research_CH-46E_Transport.label>CH-46E 海上骑士（运输机）</Research_CH-46E_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe CH-46E is a helicopter designed for long range huge capacity transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1800\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 2000kg\nSpeed: 6\nPassenger Capacity: 1-16\nFuel Per Tile: 16\nFuel Capacity: 1760\nRound Trip Range: 55\nFull Range: 130\nInternal Power: 2200w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_CH-46E_Transport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_CH-46E_Transport.description><![CDATA[<size=14><b>描述：</b></size>
 CH-46E 是一种直升机，设计用于远距离大容量货物和人员运输。
 
-&lt;size=14>&lt;b>基本状态：&lt;/b>&lt;/size
+<size=14><b>基本状态：</b></size>
 健康1800
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：2000 千克
 速度： 6
 载客量： 1-16
@@ -68,21 +68,21 @@ CH-46E 是一种直升机，设计用于远距离大容量货物和人员运输�
 全航程130
 内部功率：2200 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确打击能力：不适用
 散布范围：不适用
-投掷距离：不适用</Research_CH-46E_Transport.description>
+投掷距离：不适用]]></Research_CH-46E_Transport.description>
   <!-- EN: MH-6 Little Bird (Attack) -->
   <Research_MH-6LB_Attack.label>MH-6 小鸟（攻击型）</Research_MH-6LB_Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe AH-6M is a helicopter designed for small range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 600\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 350kg\nSpeed: 5\nPassenger Capacity: 1-2\nFuel Per Tile: 5\nFuel Capacity: 250\nRound Trip Range: 25\nFull Range: 50\nInternal Power: 250w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 2\nPrecision Run Capacity: 1\nSpread: 5\nDistance between drops: 3 -->
-  <Research_MH-6LB_Attack.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_MH-6LB_Attack.description><![CDATA[<size=14><b>描述：</b></size>
 AH-6M 是一种专为小范围攻击运行而设计的直升机，它牺牲了存储、载客和燃料能力，以保持与同类直升机相同的速度。
 
-&lt;size=14>&lt;b>基本数据：&lt;/b>&lt;/size
+<size=14><b>基本数据：</b></size>
 健康600
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：350 千克
 速度： 5
 载客量： 1-2
@@ -92,45 +92,45 @@ AH-6M 是一种专为小范围攻击运行而设计的直升机，它牺牲了�
 全航程50
 内部功率：250 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 轰炸运行能力：2
 精确运行能力：1
 扩散：5
-投掷距离：3</Research_MH-6LB_Attack.description>
+投掷距离：3]]></Research_MH-6LB_Attack.description>
   <!-- EN: MH-6 Little Bird (Transport) -->
   <Research_MH-6LB_Transport.label>MH-6 小鸟（运输机）</Research_MH-6LB_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-6M is a helicopter designed for general small range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 500\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 400kg\nSpeed: 5\nPassenger Capacity: 1-4\nFuel Per Tile: 5\nFuel Capacity: 300\nRound Trip Range: 30\nFull Range: 60\nInternal Power: 500w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_MH-6LB_Transport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_MH-6LB_Transport.description><![CDATA[<size=14><b>描述：</b></size>
 MH-6M 是一种直升机，设计用于一般的小范围货物和人员运输。
 
-&lt;size=14>&lt;b>基本数据：&lt;/b>&lt;/size
+<size=14><b>基本数据：</b></size>
 健康500
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：400 千克
 速度： 5
 载客量： 1-4
-每瓦燃料：&lt;/b>&lt;/size5
+每瓦燃料：</b></size5
 燃料容量： 300
 往返航程30
 全航程60
 内部功率：500 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</Research_MH-6LB_Transport.description>
+投掷距离：不适用]]></Research_MH-6LB_Transport.description>
   <!-- EN: UH-1Y Venom (Attack) -->
   <Research_UH-1Y_Attack.label>UH-1Y 毒液（攻击型）</Research_UH-1Y_Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThis UH-1Y with attached rocket pods is a helicopter designed for medium range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 800\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 600kg\nSpeed: 5.5\nPassenger Capacity: 1-3\nFuel Per Tile: 7\nFuel Capacity: 420\nRound Trip Range: 30\nFull Range: 60\nInternal Power: 400w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 3\nPrecision Run Capacity: 2\nSpread: 6\nDistance between drops: 4 -->
-  <Research_UH-1Y_Attack.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_UH-1Y_Attack.description><![CDATA[<size=14><b>描述：</b></size>
 这种 UH-1Y 型直升机配有火箭吊舱，专为中程攻击而设计，牺牲了存储、载客和燃料能力，以保持与同类直升机相同的速度。
 
-&lt;size=14>&lt;b>基本状态：&lt;/b>&lt;/size
+<size=14><b>基本状态：</b></size>
 健康800
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：600 千克
 速度： 5.5
 载客量： 1-3
@@ -140,21 +140,21 @@ MH-6M 是一种直升机，设计用于一般的小范围货物和人员运输�
 全航程60
 内部功率：400 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：3
 精确运行能力：2
 扩散：6
-投掷距离：4</Research_UH-1Y_Attack.description>
+投掷距离：4]]></Research_UH-1Y_Attack.description>
   <!-- EN: UH-1Y Venom (Transport) -->
   <Research_UH-1Y_Transport.label>UH-1Y 毒液（运输机）</Research_UH-1Y_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe UH-1Y is a helicopter designed for general medium range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 700\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 5.5\nPassenger Capacity: 1-6\nFuel Per Tile: 6\nFuel Capacity: 480\nRound Trip Range: 40\nFull Range: 80\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_UH-1Y_Transport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_UH-1Y_Transport.description><![CDATA[<size=14><b>描述：</b></size>
 UH-1Y 是一种直升机，设计用于一般中程货物和人员运输。
 
-&lt;size=14>&lt;b>基本数据：&lt;/b>&lt;/size
+<size=14><b>基本数据：</b></size>
 健康700
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：800 千克
 速度： 5.5
 载客量： 1-6
@@ -164,21 +164,21 @@ UH-1Y 是一种直升机，设计用于一般中程货物和人员运输。
 全航程：80
 内部功率：700 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</Research_UH-1Y_Transport.description>
+投掷距离：不适用]]></Research_UH-1Y_Transport.description>
   <!-- EN: UH-60 Blackhawk (Attack) -->
   <Research_UH-60_Attack.label>UH-60 黑鹰（攻击型）</Research_UH-60_Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-60L DAP (Direct Action Penetrator) is a helicopter designed for medium to long range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1000\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 6\nPassenger Capacity: 1-4\nFuel Per Tile: 9\nFuel Capacity: 675\nRound Trip Range: 37.5\nFull Range: 75\nInternal Power: 600w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 4\nPrecision Run Capacity: 3\nSpread: 5\nDistance between drops: 4 -->
-  <Research_UH-60_Attack.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_UH-60_Attack.description><![CDATA[<size=14><b>描述：</b></size>
 MH-60L DAP（直击穿甲弹）是一种专为中远程攻击而设计的直升机，它牺牲了存储、载客和燃料能力，以保持与同类直升机相同的速度。
 
-&lt;size=14>&lt;b>基本状态：&lt;/b>&lt;/size
+<size=14><b>基本状态：</b></size>
 健康1000
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：800 千克
 速度： 6
 载客量： 1-4
@@ -188,21 +188,21 @@ MH-60L DAP（直击穿甲弹）是一种专为中远程攻击而设计的直升�
 全航程75
 内部功率：600 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：4
 精确运行能力：3
 扩散：5
-投掷距离：4</Research_UH-60_Attack.description>
+投掷距离：4]]></Research_UH-60_Attack.description>
   <!-- EN: UH-60 Blackhawk (Transport) -->
   <Research_UH-60_Transport.label>UH-60 黑鹰 (运输机)</Research_UH-60_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe UH-60 is a helicopter designed for general medium to long range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 900\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 1000kg\nSpeed: 6\nPassenger Capacity: 1-8\nFuel Per Tile: 8\nFuel Capacity: 720\nRound Trip Range: 45\nFull Range: 90\nInternal Power: 900w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_UH-60_Transport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_UH-60_Transport.description><![CDATA[<size=14><b>描述：</b></size>
 UH-60 是一种直升机，设计用于一般中远程货物和人员运输。
 
-&lt;size=14>&lt;b>基本状态：&lt;/b>&lt;/size
+<size=14><b>基本状态：</b></size>
 健康900
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：1000 千克
 速度： 6
 载客量： 1-8
@@ -212,21 +212,21 @@ UH-60 是一种直升机，设计用于一般中远程货物和人员运输。
 全航程：90
 内部功率：900 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</Research_UH-60_Transport.description>
+投掷距离：不适用]]></Research_UH-60_Transport.description>
   <!-- EN: V-22 Osprey Knight (Transport) -->
   <Research_V-22_Transport.label>V-22 鱼鹰骑士（运输机）</Research_V-22_Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe V-22 is a helicopter designed for medium to long range quick deploy huge capacity transport of goods and personnel, sacrificing a bit of range and uses large amounts of fuel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 2000\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 2300kg\nSpeed: 8\nPassenger Capacity: 1-18\nFuel Per Tile: 25\nFuel Capacity: 2250\nRound Trip Range: 45\nFull Range: 90\nInternal Power: 2500w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <Research_V-22_Transport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <Research_V-22_Transport.description><![CDATA[<size=14><b>描述：</b></size>
 V-22 是一种直升机，专为中远程快速部署大容量货物和人员运输而设计，但会牺牲一些航程，并消耗大量燃料。
 
-&lt;size=14>&lt;b>基本状态：&lt;/b>&lt;/size
+<size=14><b>基本状态：</b></size>
 健康：2000
 
-&lt;size=14>&lt;b>物流潜力：&lt;/b>&lt;/size
+<size=14><b>物流潜力：</b></size>
 载重量：2300 千克
 速度：8
 载客量： 1-18
@@ -236,9 +236,9 @@ V-22 是一种直升机，专为中远程快速部署大容量货物和人员运
 全航程：90
 内部功率：2500 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</Research_V-22_Transport.description>
+投掷距离：不适用]]></Research_V-22_Transport.description>
 </LanguageData>

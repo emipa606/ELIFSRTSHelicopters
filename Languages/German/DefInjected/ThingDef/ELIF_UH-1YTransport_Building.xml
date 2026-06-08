@@ -4,13 +4,13 @@
   <!-- EN: UH-1Y Venom (Transport) -->
   <ELIFUH-1YVTransport.label>UH-1Y Venom (Transport)</ELIFUH-1YVTransport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe UH-1Y is a helicopter designed for general medium range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 700\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 5.5\nPassenger Capacity: 1-6\nFuel Per Tile: 6\nFuel Capacity: 480\nRound Trip Range: 40\nFull Range: 80\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFUH-1YVTransport.description>&lt;size=14>&lt;b>BESCHREIBUNG:&lt;/b>&lt;/size>
+  <ELIFUH-1YVTransport.description><![CDATA[<size=14><b>BESCHREIBUNG:</b></size>
 Der UH-1Y ist ein Hubschrauber für den allgemeinen Mittelstreckentransport von Gütern und Personal.
 
-&lt;size=14>&lt;b>BASISSTATISTIK:&lt;/b>&lt;/size>
+<size=14><b>BASISSTATISTIK:</b></size>
 Gesundheit: 700
 
-&lt;size=14>&lt;b>LOGISTISCHES POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTISCHES POTENTIAL:</b></size>
 Frachtkapazität: 800kg
 Geschwindigkeit: 5,5
 Passagierkapazität: 1-6
@@ -20,11 +20,11 @@ Rundreise-Reichweite: 40
 Volle Reichweite: 80
 Interne Leistung: 700w
 
-&lt;size=14>&lt;b>ANGRIFFSPOTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ANGRIFFSPOTENTIAL:</b></size>
 Bombardierungslauf-Kapazität: k. A.
 Präzisionslauf-Kapazität: k.A.
 Streuung: k.A.
-Abstand zwischen Abwürfen: k.A.</ELIFUH-1YVTransport.description>
+Abstand zwischen Abwürfen: k.A.]]></ELIFUH-1YVTransport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFUH-1YVTransport.comps.CompLaunchable.cooldownEndedMessage>{0} ist bereit, wieder zu starten.</ELIFUH-1YVTransport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

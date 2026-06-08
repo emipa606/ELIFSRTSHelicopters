@@ -3,13 +3,13 @@
   <!-- EN: V-22 Osprey (Transport) -->
   <ELIFV-22Transport.label>V-22 Osprey (Transport)</ELIFV-22Transport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe V-22 is a helicopter designed for medium to long range quick deploy huge capacity transport of goods and personnel, sacrificing a bit of range and uses large amounts of fuel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 2000\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 2300kg\nSpeed: 8\nPassenger Capacity: 1-18\nFuel Per Tile: 25\nFuel Capacity: 2250\nRound Trip Range: 45\nFull Range: 90\nInternal Power: 2500w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFV-22Transport.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+  <ELIFV-22Transport.description><![CDATA[<size=14><b>DESCRIPTION:</b></size>
 The V-22 is a helicopter designed for medium to long range quick deploy huge capacity transport of goods and personnel, sacrificing a bit of range and uses large amounts of fuel.
 
-&lt;size=14>&lt;b>BASIC STATS:&lt;/b>&lt;/size>
+<size=14><b>BASIC STATS:</b></size>
 Health: 2000
 
-&lt;size=14>&lt;b>LOGISTICS POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTICS POTENTIAL:</b></size>
 Cargo Capacity: 2300kg
 Speed: 8
 Passenger Capacity: 1-18
@@ -19,11 +19,11 @@ Round Trip Range: 45
 Full Range: 90
 Internal Power: 2500w
 
-&lt;size=14>&lt;b>ATTACK POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ATTACK POTENTIAL:</b></size>
 Bombing Run Capacity: n/a
 Precision Run Capacity: n/a
 Spread: n/a
-Distance between drops: n/a</ELIFV-22Transport.description>
+Distance between drops: n/a]]></ELIFV-22Transport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFV-22Transport.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</ELIFV-22Transport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

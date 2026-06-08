@@ -4,27 +4,27 @@
   <!-- EN: MH-6M Little Bird (Transport) -->
   <ELIFMH-6LBTransport.label>MH-6M 小鸟（运输机）</ELIFMH-6LBTransport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-6M is a helicopter designed for general small range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 500\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 400kg\nSpeed: 5\nPassenger Capacity: 1-4\nFuel Per Tile: 5\nFuel Capacity: 300\nRound Trip Range: 30\nFull Range: 60\nInternal Power: 500w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFMH-6LBTransport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <ELIFMH-6LBTransport.description><![CDATA[<size=14><b>描述：</b></size>
 MH-6M 是一种直升机，设计用于一般的小范围货物和人员运输。
 
-&lt;size=14>&lt;b>基本数据：&lt;/b>&lt;/size
+<size=14><b>基本数据：</b></size>
 健康500
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：400 千克
 速度： 5
 载客量： 1-4
-每瓦燃料：&lt;/b>&lt;/size5
+每瓦燃料：</b></size5
 燃料容量： 300
 往返航程30
 全航程60
 内部功率：500 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</ELIFMH-6LBTransport.description>
+投掷距离：不适用]]></ELIFMH-6LBTransport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFMH-6LBTransport.comps.CompLaunchable.cooldownEndedMessage>{0}已准备好再次发射。</ELIFMH-6LBTransport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

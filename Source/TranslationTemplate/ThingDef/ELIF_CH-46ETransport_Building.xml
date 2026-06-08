@@ -3,13 +3,13 @@
   <!-- EN: CH-46E Sea Knight (Transport) -->
   <ELIFCH-46ETransport.label>CH-46E Sea Knight (Transport)</ELIFCH-46ETransport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe CH-46E is a helicopter designed for long range huge capacity transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1800\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 2000kg\nSpeed: 6\nPassenger Capacity: 1-16\nFuel Per Tile: 16\nFuel Capacity: 1760\nRound Trip Range: 55\nFull Range: 110\nInternal Power: 2200w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFCH-46ETransport.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+  <ELIFCH-46ETransport.description><![CDATA[<size=14><b>DESCRIPTION:</b></size>
 The CH-46E is a helicopter designed for long range huge capacity transport of goods and personnel.
 
-&lt;size=14>&lt;b>BASIC STATS:&lt;/b>&lt;/size>
+<size=14><b>BASIC STATS:</b></size>
 Health: 1800
 
-&lt;size=14>&lt;b>LOGISTICS POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTICS POTENTIAL:</b></size>
 Cargo Capacity: 2000kg
 Speed: 6
 Passenger Capacity: 1-16
@@ -19,11 +19,11 @@ Round Trip Range: 55
 Full Range: 110
 Internal Power: 2200w
 
-&lt;size=14>&lt;b>ATTACK POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ATTACK POTENTIAL:</b></size>
 Bombing Run Capacity: n/a
 Precision Run Capacity: n/a
 Spread: n/a
-Distance between drops: n/a</ELIFCH-46ETransport.description>
+Distance between drops: n/a]]></ELIFCH-46ETransport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFCH-46ETransport.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</ELIFCH-46ETransport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

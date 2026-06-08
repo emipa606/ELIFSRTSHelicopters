@@ -3,13 +3,13 @@
   <!-- EN: MH-60L DAP Blackhawk (Attack) -->
   <ELIFUH-60Attack.label>MH-60L DAP Blackhawk (Attack)</ELIFUH-60Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-60L DAP (Direct Action Penetrator) is a helicopter designed for medium to long range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1000\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 6\nPassenger Capacity: 1-4\nFuel Per Tile: 9\nFuel Capacity: 675\nRound Trip Range: 37.5\nFull Range: 75\nInternal Power: 600w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 4\nPrecision Run Capacity: 3\nSpread: 5\nDistance between drops: 4 -->
-  <ELIFUH-60Attack.description>&lt;size=14>&lt;b>DESCRIPTION:&lt;/b>&lt;/size>
+  <ELIFUH-60Attack.description><![CDATA[<size=14><b>DESCRIPTION:</b></size>
 The MH-60L DAP (Direct Action Penetrator) is a helicopter designed for medium to long range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.
 
-&lt;size=14>&lt;b>BASIC STATS:&lt;/b>&lt;/size>
+<size=14><b>BASIC STATS:</b></size>
 Health: 1000
 
-&lt;size=14>&lt;b>LOGISTICS POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTICS POTENTIAL:</b></size>
 Cargo Capacity: 800kg
 Speed: 6
 Passenger Capacity: 1-4
@@ -19,11 +19,11 @@ Round Trip Range: 37.5
 Full Range: 75
 Internal Power: 600w
 
-&lt;size=14>&lt;b>ATTACK POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ATTACK POTENTIAL:</b></size>
 Bombing Run Capacity: 4
 Precision Run Capacity: 3
 Spread: 5
-Distance between drops: 4</ELIFUH-60Attack.description>
+Distance between drops: 4]]></ELIFUH-60Attack.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFUH-60Attack.comps.CompLaunchable.cooldownEndedMessage>{0} is ready to launch again.</ELIFUH-60Attack.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

@@ -4,13 +4,13 @@
   <!-- EN: AH-6M Little Bird (Attack) -->
   <ELIFMH-6LBAttack.label>AH-6M Little Bird (Angriff)</ELIFMH-6LBAttack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe AH-6M is a helicopter designed for small range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 600\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 350kg\nSpeed: 5\nPassenger Capacity: 1-2\nFuel Per Tile: 5\nFuel Capacity: 250\nRound Trip Range: 25\nFull Range: 50\nInternal Power: 250w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 2\nPrecision Run Capacity: 1\nSpread: 5\nDistance between drops: 3 -->
-  <ELIFMH-6LBAttack.description>&lt;size=14>&lt;b>BESCHREIBUNG:&lt;/b>&lt;/size>
+  <ELIFMH-6LBAttack.description><![CDATA[<size=14><b>BESCHREIBUNG:</b></size>
 Der AH-6M ist ein Hubschrauber, der für Angriffsflüge mit geringer Reichweite entwickelt wurde, wobei er auf Stauraum, Passagier- und Treibstoffkapazität verzichtet, um die gleiche Geschwindigkeit wie sein Gegenstück zu erreichen.
 
-&lt;size=14>&lt;b>BASISSTATS:&lt;/b>&lt;/size>
+<size=14><b>BASISSTATS:</b></size>
 Gesundheit: 600
 
-&lt;size=14>&lt;b>LOGISTISCHES POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTISCHES POTENTIAL:</b></size>
 Frachtkapazität: 350kg
 Geschwindigkeit: 5
 Passagierkapazität: 1-2
@@ -20,11 +20,11 @@ Reichweite für Hin- und Rückfahrt: 25
 Volle Reichweite: 50
 Interne Leistung: 250w
 
-&lt;size=14>&lt;b>ANGRIFFSPOTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ANGRIFFSPOTENTIAL:</b></size>
 Bombardierungslauf-Kapazität: 2
 Präzisionslauf-Kapazität: 1
 Streuung: 5
-Abstand zwischen Abwürfen: 3</ELIFMH-6LBAttack.description>
+Abstand zwischen Abwürfen: 3]]></ELIFMH-6LBAttack.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFMH-6LBAttack.comps.CompLaunchable.cooldownEndedMessage>{0} ist bereit, wieder zu starten.</ELIFMH-6LBAttack.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

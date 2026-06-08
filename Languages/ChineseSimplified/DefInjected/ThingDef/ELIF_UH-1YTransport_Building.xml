@@ -4,13 +4,13 @@
   <!-- EN: UH-1Y Venom (Transport) -->
   <ELIFUH-1YVTransport.label>UH-1Y 毒液（运输机）</ELIFUH-1YVTransport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe UH-1Y is a helicopter designed for general medium range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 700\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 5.5\nPassenger Capacity: 1-6\nFuel Per Tile: 6\nFuel Capacity: 480\nRound Trip Range: 40\nFull Range: 80\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFUH-1YVTransport.description>&lt;size=14>&lt;b>描述：&lt;/b>&lt;/size
+  <ELIFUH-1YVTransport.description><![CDATA[<size=14><b>描述：</b></size>
 UH-1Y 是一种直升机，设计用于一般中程货物和人员运输。
 
-&lt;size=14>&lt;b>基本数据：&lt;/b>&lt;/size
+<size=14><b>基本数据：</b></size>
 健康700
 
-&lt;size=14>&lt;b>潜能：&lt;/b>&lt;/size
+<size=14><b>潜能：</b></size>
 载重量：800 千克
 速度： 5.5
 载客量： 1-6
@@ -20,11 +20,11 @@ UH-1Y 是一种直升机，设计用于一般中程货物和人员运输。
 全航程：80
 内部功率：700 瓦
 
-&lt;size=14>&lt;b> 攻击潜力：&lt;/b>&lt;/size
+<size=14><b> 攻击潜力：</b></size>
 投弹能力：不适用
 精确运行能力：不适用
 传播范围：不适用
-投掷距离：不适用</ELIFUH-1YVTransport.description>
+投掷距离：不适用]]></ELIFUH-1YVTransport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFUH-1YVTransport.comps.CompLaunchable.cooldownEndedMessage>{0}已准备好再次发射。</ELIFUH-1YVTransport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>
