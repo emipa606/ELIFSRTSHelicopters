@@ -4,13 +4,13 @@
   <!-- EN: AH-1Z Viper (Attack) -->
   <ELIFAH-1ZVAttack.label>AH-1Z Viper (Angriff)</ELIFAH-1ZVAttack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe AH-1Z is a helicopter designed for long range precision bombing, sacrificing bombing capacity for high-end computational computers for higher accuracy.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1400\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 500kg\nSpeed: 8\nPassenger Capacity: 1-2\nFuel Per Tile: 10\nFuel Capacity: 1060\nRound Trip Range: 53\nFull Range: 106\nInternal Power: 700w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 3\nPrecision Run Capacity: 7\nSpread: 4\nDistance between drops: 3 -->
-  <ELIFAH-1ZVAttack.description>&lt;size=14>&lt;b>BESCHREIBUNG:&lt;/b>&lt;/size>
+  <ELIFAH-1ZVAttack.description><![CDATA[<size=14><b>BESCHREIBUNG:</b></size>
 Der AH-1Z ist ein Hubschrauber, der für Langstrecken-Präzisionsbombardements entwickelt wurde, wobei die Bombenkapazität zugunsten von High-End-Rechnern für höhere Genauigkeit geopfert wurde.
 
-&lt;size=14>&lt;b>BASISSTATISTIK:&lt;/b>&lt;/size>
+<size=14><b>BASISSTATISTIK:</b></size>
 Gesundheit: 1400
 
-&lt;size=14>&lt;b>LOGISTISCHES POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTISCHES POTENTIAL:</b></size>
 Frachtkapazität: 500kg
 Geschwindigkeit: 8
 Passagierkapazität: 1-2
@@ -20,11 +20,11 @@ Rundreise-Reichweite: 53
 Volle Reichweite: 106
 Interne Leistung: 700w
 
-&lt;size=14>&lt;b>ANGRIFFSPOTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ANGRIFFSPOTENTIAL:</b></size>
 Bombardierungslauf-Kapazität: 3
 Präzisionslauf-Kapazität: 7
 Streuung: 4
-Abstand zwischen Abwürfen: 3</ELIFAH-1ZVAttack.description>
+Abstand zwischen Abwürfen: 3]]></ELIFAH-1ZVAttack.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFAH-1ZVAttack.comps.CompLaunchable.cooldownEndedMessage>{0} ist bereit, wieder zu starten.</ELIFAH-1ZVAttack.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

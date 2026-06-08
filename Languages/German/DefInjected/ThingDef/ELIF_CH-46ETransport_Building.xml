@@ -4,13 +4,13 @@
   <!-- EN: CH-46E Sea Knight (Transport) -->
   <ELIFCH-46ETransport.label>CH-46E See-Ritter (Transport)</ELIFCH-46ETransport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe CH-46E is a helicopter designed for long range huge capacity transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1800\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 2000kg\nSpeed: 6\nPassenger Capacity: 1-16\nFuel Per Tile: 16\nFuel Capacity: 1760\nRound Trip Range: 55\nFull Range: 110\nInternal Power: 2200w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFCH-46ETransport.description>&lt;size=14>&lt;b>BESCHREIBUNG:&lt;/b>&lt;/size>
+  <ELIFCH-46ETransport.description><![CDATA[<size=14><b>BESCHREIBUNG:</b></size>
 Der CH-46E ist ein Hubschrauber, der für den Langstreckentransport von Gütern und Personal mit großer Kapazität entwickelt wurde.
 
-&lt;size=14>&lt;b>BASISSTATISTIK:&lt;/b>&lt;/size>
+<size=14><b>BASISSTATISTIK:</b></size>
 Gesundheit: 1800
 
-&lt;size=14>&lt;b>LOGISTISCHES POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTISCHES POTENTIAL:</b></size>
 Frachtkapazität: 2000kg
 Geschwindigkeit: 6
 Passagierkapazität: 1-16
@@ -20,11 +20,11 @@ Rundreise-Reichweite: 55
 Volle Reichweite: 110
 Interne Leistung: 2200w
 
-&lt;size=14>&lt;b>ANGRIFFSPOTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ANGRIFFSPOTENTIAL:</b></size>
 Bombardierungslauf-Kapazität: k. A.
 Präzisionslauf-Kapazität: k.A.
 Streuung: k.A.
-Abstand zwischen Abwürfen: k.A.</ELIFCH-46ETransport.description>
+Abstand zwischen Abwürfen: k.A.]]></ELIFCH-46ETransport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFCH-46ETransport.comps.CompLaunchable.cooldownEndedMessage>{0} ist bereit, wieder zu starten.</ELIFCH-46ETransport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

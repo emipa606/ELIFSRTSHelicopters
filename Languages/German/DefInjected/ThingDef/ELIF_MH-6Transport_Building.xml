@@ -4,13 +4,13 @@
   <!-- EN: MH-6M Little Bird (Transport) -->
   <ELIFMH-6LBTransport.label>MH-6M Little Bird (Transport)</ELIFMH-6LBTransport.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-6M is a helicopter designed for general small range transport of goods and personnel.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 500\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 400kg\nSpeed: 5\nPassenger Capacity: 1-4\nFuel Per Tile: 5\nFuel Capacity: 300\nRound Trip Range: 30\nFull Range: 60\nInternal Power: 500w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: n/a\nPrecision Run Capacity: n/a\nSpread: n/a\nDistance between drops: n/a -->
-  <ELIFMH-6LBTransport.description>&lt;size=14>&lt;b>BESCHREIBUNG:&lt;/b>&lt;/size>
+  <ELIFMH-6LBTransport.description><![CDATA[<size=14><b>BESCHREIBUNG:</b></size>
 Der MH-6M ist ein Hubschrauber, der für den allgemeinen Transport von Gütern und Personal über kleine Entfernungen entwickelt wurde.
 
-&lt;size=14>&lt;b>BASISSTATISTIK:&lt;/b>&lt;/size>
+<size=14><b>BASISSTATISTIK:</b></size>
 Gesundheit: 500
 
-&lt;size=14>&lt;b>LOGISTISCHES POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTISCHES POTENTIAL:</b></size>
 Frachtkapazität: 400kg
 Geschwindigkeit: 5
 Passagierkapazität: 1-4
@@ -20,11 +20,11 @@ Rundreise-Reichweite: 30
 Volle Reichweite: 60
 Interne Leistung: 500w
 
-&lt;size=14>&lt;b>ANGRIFFSPOTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ANGRIFFSPOTENTIAL:</b></size>
 Bombardierungslauf-Kapazität: k.A.
 Präzisionslauf-Kapazität: k.A.
 Streuung: k.A.
-Abstand zwischen Abwürfen: k.A.</ELIFMH-6LBTransport.description>
+Abstand zwischen Abwürfen: k.A.]]></ELIFMH-6LBTransport.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFMH-6LBTransport.comps.CompLaunchable.cooldownEndedMessage>{0} ist bereit, wieder zu starten.</ELIFMH-6LBTransport.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>

@@ -4,13 +4,13 @@
   <!-- EN: MH-60L DAP Blackhawk (Attack) -->
   <ELIFUH-60Attack.label>MH-60L DAP Blackhawk (Angriff)</ELIFUH-60Attack.label>
   <!-- EN: <size=14><b>DESCRIPTION:</b></size>\nThe MH-60L DAP (Direct Action Penetrator) is a helicopter designed for medium to long range attack runs, sacrificing storage, passenger and fuel capacity to maintain the same speed of its counterpart.\n\n<size=14><b>BASIC STATS:</b></size>\nHealth: 1000\n\n<size=14><b>LOGISTICS POTENTIAL:</b></size>\nCargo Capacity: 800kg\nSpeed: 6\nPassenger Capacity: 1-4\nFuel Per Tile: 9\nFuel Capacity: 675\nRound Trip Range: 37.5\nFull Range: 75\nInternal Power: 600w\n\n<size=14><b>ATTACK POTENTIAL:</b></size>\nBombing Run Capacity: 4\nPrecision Run Capacity: 3\nSpread: 5\nDistance between drops: 4 -->
-  <ELIFUH-60Attack.description>&lt;size=14>&lt;b>BESCHREIBUNG:&lt;/b>&lt;/size>
+  <ELIFUH-60Attack.description><![CDATA[<size=14><b>BESCHREIBUNG:</b></size>
 Der MH-60L DAP (Direct Action Penetrator) ist ein Hubschrauber, der für Angriffsflüge über mittlere bis große Entfernungen entwickelt wurde, wobei er auf Stauraum, Passagier- und Treibstoffkapazität verzichtet, um die gleiche Geschwindigkeit wie sein Gegenstück zu erreichen.
 
-&lt;size=14>&lt;b>BASISSTATS:&lt;/b>&lt;/size>
+<size=14><b>BASISSTATS:</b></size>
 Gesundheit: 1000
 
-&lt;size=14>&lt;b>LOGISTISCHES POTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>LOGISTISCHES POTENTIAL:</b></size>
 Frachtkapazität: 800kg
 Geschwindigkeit: 6
 Passagierkapazität: 1-4
@@ -20,11 +20,11 @@ Rundreise-Reichweite: 37.5
 Volle Reichweite: 75
 Interne Leistung: 600w
 
-&lt;size=14>&lt;b>ANGRIFFSPOTENTIAL:&lt;/b>&lt;/size>
+<size=14><b>ANGRIFFSPOTENTIAL:</b></size>
 Bombardierungslauf-Kapazität: 4
 Präzisionslauf-Kapazität: 3
 Streuung: 5
-Abstand zwischen Abwürfen: 4</ELIFUH-60Attack.description>
+Abstand zwischen Abwürfen: 4]]></ELIFUH-60Attack.description>
   <!-- EN: {0} is ready to launch again. -->
   <ELIFUH-60Attack.comps.CompLaunchable.cooldownEndedMessage>{0} ist bereit, wieder zu starten.</ELIFUH-60Attack.comps.CompLaunchable.cooldownEndedMessage>
 </LanguageData>
